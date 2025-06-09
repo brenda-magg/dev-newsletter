@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-url-to-the-solution}"> 
+    <a href="{https://brenda-magg.github.io/dev-newsletter/}"> 
       Solution
     </a>
     <span> | </span>
@@ -50,4 +50,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@brenda-magg](https://{github.com/your-usermame})
+- GitHub [@brenda-magg](https://{github.com/brenda-magg})
